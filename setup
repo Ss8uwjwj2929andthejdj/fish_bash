@@ -1,35 +1,35 @@
 #! / bin / bash
-Cesar = " gema "
+HACKED = " gema "
 Gris = " paquete "
 
 dormir 0.4
 echo  " Instalando zsh ... "
-$ {Gray} instalar -y zsh -y
+$ {HACKED} instalar -y zsh -y
 eco
 eco
 echo  " Instalando gawk ... "
-$ {Gray} instalar gawk -y
+$ {HACKED} instalar gawk -y
 eco
 eco
 echo  " Instalando cowsar ... "
-$ {Gray} instalar cowsay -y
+$ {HACKED} instalar cowsay -y
 eco
 eco
 echo  " Instalando lolcat ... "
-$ {Gray} instalar ruby ​​-y
-$ {Cesar} instalar lolcat
+$ {HADKED} instalar ruby ​​-y
+$ {HACKED} instalar lolcat
 eco
 eco
 echo  " Instalando ncurses-utils ... "
-$ {Gray} instalar ncurses-utils -y
+$ {HACKED} instalar ncurses-utils -y
 eco
 eco
 echo  " Instalando coreutils ... "
-$ {Gray} instalar coreutils -y
+$ {HACKED} instalar coreutils -y
 eco
 eco
 echo  " Instalando procps ... "
-$ {Gray} instalar procps -y
+$ {HACKED} instalar procps -y
 eco
 eco
 dormir 0.6

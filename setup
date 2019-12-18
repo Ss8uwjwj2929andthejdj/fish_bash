@@ -1,0 +1,47 @@
+#! / bin / bash
+HACKED = " gema "
+Gris = " paquete "
+
+dormir 0.4
+echo  " Instalando zsh ... "
+$ {HACKED} instalar -y zsh -y
+eco
+eco
+echo  " Instalando gawk ... "
+$ {HACKED} instalar gawk -y
+eco
+eco
+echo  " Instalando cowsar ... "
+$ {HACKED} instalar cowsay -y
+eco
+eco
+echo  " Instalando lolcat ... "
+$ {HACKED} instalar ruby ​​-y
+$ {HACKED} instalar lolcat
+eco
+eco
+echo  " Instalando ncurses-utils ... "
+$ {HACKED} instalar ncurses-utils -y
+eco
+eco
+echo  " Instalando coreutils ... "
+$ {HACKED} instalar coreutils -y
+eco
+eco
+echo  " Instalando procps ... "
+$ {HACKED} instalar procps -y
+eco
+eco
+dormir 0.6
+echo  $ ( claro )
+cowsay Fish-Bash | gato gracioso
+eco
+eco
+echo  " ¡Terminado! "
+echo  " Creado por @HACKED AD"
+echo  " Contactame https://t.me/HackedAD "
+chmod + x ~ / fish-bash / fish
+echo  " Uso: ./fish [opción] "
+eco
+dormir 0.5
+salida
